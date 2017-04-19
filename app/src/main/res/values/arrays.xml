@@ -1,0 +1,7 @@
+<resources>
+    <!-- These are the options displayed in the weekend drop-down Spinner -->
+    <string-array name="array_weekend_options">
+        <item>YES</item>
+        <item>NO</item>
+    </string-array>
+</resources>
